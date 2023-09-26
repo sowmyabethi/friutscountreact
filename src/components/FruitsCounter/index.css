@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.img {
+  height: 400px;
+  width: 300px;
+}
+.imgscontainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.man {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  text-align: center;
+}
+.style {
+  color: chartreuse;
+}
